@@ -20,7 +20,7 @@ Bryan's life
 - 10/29/2012-12/18/2014 NextGen FIRST Phone
 - ~-~ Tech
 - 12/07/2008 Join [Twitter](https://twitter.com/bryanrosenbaum "Twitter @bryanrosenbaum")
-- 05/27/2012 Join [Instagram](https://instagram.com/bryanrosenbaum "Instagram bryanrosenbaum)
+- 05/27/2012 Join [Instagram](https://instagram.com/bryanrosenbaum "Instagram bryanrosenbaum")
 - 12/13/2012 Start working on BlueFletch Feed (yammer replacement)
 - 12/13/2012 Sign up at [github](https://github.com/bryanro "Bryan's github")
 - 10/04/2013 First blog post at [bryankrosenbaum.com](http://bryankrosenbaum.com "The Technical PM | Project Manager, Technologist, and Programming Hobbyist")
