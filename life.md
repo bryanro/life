@@ -3,27 +3,31 @@ Bryan's life
 
 - 12/02/1984 Born in Charleston, SC
 - 01/1987 Move to Orlando, FL
-- 07/04/1987 Brother is born
+- 07/04/1987 Brother Jordan is born
 - 08/2003 Meet Lauren
 - 08/2004 First car: 2004 Honda Accord
-- 10/24/2009 Married
+- 10/24/2009 Marry Lauren
 - 03/31/2010 Buy first house
 - 03/19/2012 Hannah is born
 - 08/22/2014 Shira is born
 - 12/13/2014 Second car: 2015 Acura TLX
 - ~-~ Education
 - 08/1996-06/2003 Trinity Prep School
-- 09/2003-12/2006 Emory University
+- 09/2003-12/2006 Emory University, Goizueta Business School
 - ~-~ Work
 - 02/21/2007-08/27/2010 Consultant at [Avanade](http://www.avanade.com "Avanade")
-- 08/30/2010-~ Project Manager at [BlueFletch Consulting](http://bluefletch.com "BlueFletch Mobile Consulting")
-- 10/29/2012-12/18/2014 NextGen FIRST Phone
+- 08/30/2010-~ Project and Account Manager at [BlueFletch Consulting](http://bluefletch.com "BlueFletch Mobile Consulting")
+- 10/29/2012-12/18/2014 NextGen FIRST Phone Project
+- 12/19/2014-08/15/2015 Homerbot
+- 08/07/2015-~ FISK
 - ~-~ Tech
 - 12/07/2008 Join [Twitter](https://twitter.com/bryanrosenbaum "Twitter @bryanrosenbaum")
 - 05/27/2012 Join [Instagram](https://instagram.com/bryanrosenbaum "Instagram bryanrosenbaum")
 - 12/13/2012 Start working on BlueFletch Feed (yammer replacement)
 - 12/13/2012 Sign up at [github](https://github.com/bryanro "Bryan's github")
+- 09/23/2013 Start working on InstaDigest (daily digest email of instagram photos)
 - 10/04/2013 First blog post at [bryankrosenbaum.com](http://bryankrosenbaum.com "The Technical PM | Project Manager, Technologist, and Programming Hobbyist")
 - 11/05/2013 First Android app [Later](https://play.google.com/store/apps/details?id=com.bryankrosenbaum.later&hl=en "Later")
 - 01/05/2014 Buy first MacBook
 - 12/24/2014 Install smart door lock
+- 08/21/2014 Join [Slack](http://www.slack.com)
