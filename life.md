@@ -16,10 +16,11 @@ Bryan's life
 - 09/2003-12/2006 Emory University, Goizueta Business School
 - ~-~ Work
 - 02/21/2007-08/27/2010 Consultant at [Avanade](http://www.avanade.com "Avanade")
-- 08/30/2010-~ Project and Account Manager at [BlueFletch Consulting](http://bluefletch.com "BlueFletch Mobile Consulting")
+- 08/30/2010-10/16/2015 Project and Account Manager at [BlueFletch Consulting](http://bluefletch.com "BlueFletch Mobile Consulting")
 - 10/29/2012-12/18/2014 NextGen FIRST Phone Project
 - 12/19/2014-08/15/2015 Homerbot
 - 08/07/2015-~ FISK
+- 10/26/2015-~ IT Manager of Platform Engineering at The Home Depot
 - ~-~ Tech
 - 12/07/2008 Join [Twitter](https://twitter.com/bryanrosenbaum "Twitter @bryanrosenbaum")
 - 05/27/2012 Join [Instagram](https://instagram.com/bryanrosenbaum "Instagram bryanrosenbaum")
