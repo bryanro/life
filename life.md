@@ -20,8 +20,9 @@ Bryan's life
 - 08/30/2010-10/16/2015 Project and Account Manager at [BlueFletch Consulting](http://bluefletch.com "BlueFletch Mobile Consulting")
 - 10/29/2012-12/18/2014 NextGen FIRST Phone Project
 - 12/19/2014-08/15/2015 Homerbot Project
-- 10/26/2015-05/24/2019 Software Engineer Manager at [The Home Depot](http://homedepot.com "The Home Depot")
-- 05/27/2019-~ Senior Software Engineer Manager at [The Home Depot](http://homedepot.com "The Home Depot")
+- 10/26/2015-05/24/2019 Software Engineer Manager at [The Home Depot](http://homedepot.com "The Home Depot") in Store Systems
+- 05/27/2019-07/03/2020 Senior Software Engineer Manager at [The Home Depot](http://homedepot.com "The Home Depot") in POS
+- 07/06/2020-~ Senior Software Engineer Manager at [The Home Depot](http://homedepot.com "The Home Depot") in Pricing
 - ~-~ Tech
 - 12/07/2008 Join [Twitter](https://twitter.com/bryanrosenbaum "Twitter @bryanrosenbaum")
 - 05/27/2012 Join [Instagram](https://instagram.com/bryanrosenbaum "Instagram bryanrosenbaum")
